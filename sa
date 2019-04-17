@@ -1,0 +1,36 @@
+!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+		h1{
+			font-size: 55pt;
+			color:red;
+			text-shadow: 3px 3px 3px black;
+		}
+		h2{
+			font-size; 45pt;
+			color: gray;
+		}
+		</style>
+		<script type="text/javaScript">
+
+
+
+		</script>
+	</head>
+	<body>
+
+<hgoup>
+		<h1>Nome: Loja de Roupas</h1></br>
+		<h2>CNPJ: 000.000.000.00</h2></br>
+		<h2>Endereço: Rua Blablabla, 369</h2></br>
+		<h2>Telefone: 48 3333-4545</h2></br>
+		<h2>E-mail: lojade.roupas@gmail.com</h2></br>
+		<h2>Endereço eletrônico: lojaderoupas.com.br</h2>
+	</hgroup>
+
+
+	</body>
+</html>
